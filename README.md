@@ -3,7 +3,7 @@ This repository contains the YAML code for the "ND9991 - C2- Infrastructure as C
 
 The Cloud Formation script was designed to build the following infrastructure:
 
-![](infrastructure-as-code-project\diagram\Udacity-Project-IAC-Diagram.png)
+![](diagram/Udacity-Project-IAC-Diagram.png)
 
 This repository contains the following files:
 
