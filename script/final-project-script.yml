@@ -292,7 +292,7 @@ Resources:
       ImageId: ami-090717c950a5c34d3
       SecurityGroups:
       - Ref: ServersSecurityGroup
-      InstanceType: t2.medium
+      InstanceType: t3.medium
       BlockDeviceMappings:
       - DeviceName: "/dev/sda1"
         Ebs:
